@@ -89,16 +89,3 @@ I'm passionate about building impactful software, from full-stack web applicatio
 
 ---
 
-## 📌 Featured Interests
-
-- Full-Stack Development
-- Mobile Development
-- Artificial Intelligence
-- Computer Vision
-- Cloud Computing
-- Augmented Reality
-- UI/UX Design
-
----
-
-> Building products, learning continuously, and shipping ideas into reality.
