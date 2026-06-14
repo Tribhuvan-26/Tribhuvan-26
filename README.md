@@ -1,4 +1,4 @@
-# Hi, I'm Tribhuvan 👋
+# Hi, I'm Tribhuvan!
 
 ### Software Engineer | Full-Stack Developer | Mobile App Developer
 
