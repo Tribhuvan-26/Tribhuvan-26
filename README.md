@@ -6,7 +6,7 @@ I'm passionate about building impactful software, from full-stack web applicatio
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tribhuvan-katepally-30639b335/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tribhuvan._.26/)
@@ -16,7 +16,7 @@ I'm passionate about building impactful software, from full-stack web applicatio
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - Build full-stack web applications
 - Develop cross-platform mobile apps
@@ -26,7 +26,7 @@ I'm passionate about building impactful software, from full-stack web applicatio
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
