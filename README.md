@@ -2,38 +2,53 @@
 
 # trib.
 
-building things that probably shouldn't exist, but do.
+software engineer.
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=full-stack+developer;mobile+developer;ai+enthusiast;always+building+something"/>
+building things people actually use.
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=2500&color=A8A8A8&center=true&vCenter=true&width=450&lines=full-stack.;mobile.;ai.;always+shipping."/>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/tribhuvan-katepally-30639b335">
-<img src="https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-181818?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:katepallytribhuvan@gmail.com">
-<img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/email-181818?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Tribhuvan-26">
-<img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.instagram.com/tribhuvan._.26">
+<img src="https://img.shields.io/badge/instagram-181818?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://open.spotify.com/user/YOUR_ID">
-<img src="https://img.shields.io/badge/spotify-111111?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
+<a href="https://x.com/katepally_t">
+<img src="https://img.shields.io/badge/x-181818?style=flat-square&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/user/31xqiukeprluoqov4bdnvqjvdtwe">
+<img src="https://img.shields.io/badge/spotify-181818?style=flat-square&logo=spotify&logoColor=1DB954"/>
 </a>
 
 </div>
 
 ---
 
-## currently
+## about
 
-- shipping cool side projects
-- building ai products
-- making mobile apps
-- pretending bugs don't exist
+```txt
+19
+
+currently obsessed with
+→ ai
+→ mobile
+→ beautiful ui
+→ building random side projects at 2am
+
+i like products that feel effortless.
+```
 
 ---
 
@@ -41,22 +56,25 @@ building things that probably shouldn't exist, but do.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?theme=dark&i=java,python,ts,js,react,nextjs,nodejs,express,fastapi,flutter,mongodb,mysql,supabase,firebase,gcp,git,github,figma,blender,tensorflow,opencv"/>
+<img src="https://skillicons.dev/icons?theme=dark&i=react,nextjs,flutter,nodejs,express,fastapi,python,java,ts,mongodb,supabase,firebase,gcp,figma,git&perline=8"/>
 
 </p>
 
 ---
 
-## featured
+## things i've built
 
 <table>
+
 <tr>
 
 <td width="50%">
 
 ### Workshop Carnival AI
 
-RAG chatbot built with FastAPI + Gemini + FAISS.
+RAG chatbot
+
+FastAPI · Gemini · FAISS
 
 </td>
 
@@ -64,7 +82,9 @@ RAG chatbot built with FastAPI + Gemini + FAISS.
 
 ### Campus Companion
 
-A modern university management platform.
+University platform
+
+Next.js · Supabase
 
 </td>
 
@@ -76,7 +96,7 @@ A modern university management platform.
 
 ### PlantSense
 
-AI-powered smart agriculture system.
+AI + IoT Agriculture
 
 </td>
 
@@ -84,12 +104,27 @@ AI-powered smart agriculture system.
 
 ### SkillSwap
 
-Community platform to learn and teach skills.
+Learning Community
 
 </td>
 
 </tr>
+
 </table>
+
+---
+
+## currently listening
+
+<p align="center">
+
+<a href="https://open.spotify.com/user/31xqiukeprluoqov4bdnvqjvdtwe">
+
+<img src="https://img.shields.io/badge/open%20my%20spotify-181818?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
+
+</a>
+
+</p>
 
 ---
 
@@ -97,24 +132,23 @@ Community platform to learn and teach skills.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&theme=transparent&hide_border=true&show_icons=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tribhuvan-26&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Tribhuvan-26&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tribhuvan-26&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tribhuvan-26&theme=minimal&hide_border=true"/>
 
 </p>
 
 ---
 
-> "if it's a stupid idea but it works, it wasn't stupid."
-
 <div align="center">
 
-made with coffee, curiosity, and questionable sleep schedules.
+> making cool stuff one commit at a time.
 
 </div>
+````
