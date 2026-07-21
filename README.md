@@ -2,90 +2,136 @@
 
 # hey, i'm trib.
 
-i enjoy building software.
-
-currently studying, learning, and making things that solve real problems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer.;Full-Stack+Developer.;Building+cool+things.;Probably+debugging+right+now." />
 
 <br>
 
-<a href="https://www.linkedin.com/in/tribhuvan-katepally-30639b335">linkedin</a> ·
-<a href="mailto:katepallytribhuvan@gmail.com">email</a> ·
-<a href="https://open.spotify.com/user/31xqiukeprluoqov4bdnvqjvdtwe">spotify</a>
+<a href="https://www.linkedin.com/in/tribhuvan-katepally-30639b335/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+&nbsp;
+<a href="mailto:katepallytribhuvan@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+</a>
+&nbsp;
+<a href="https://github.com/Tribhuvan-26">
+  <img src="https://skillicons.dev/icons?i=github" height="42"/>
+</a>
 
 </div>
 
 ---
 
-### about
+```console
+trib@github:~$ whoami
 
-i'm a software engineering student interested in full-stack development, mobile apps and ai.
+Software Engineer
 
-most of my time goes into building projects, learning something new, or redesigning something that probably didn't need redesigning.
+building things that people actually use.
 
-i like clean interfaces, thoughtful products and code that's easy to come back to six months later.
+→ full-stack applications
+→ mobile apps
+→ ai systems
+→ computer vision
+→ cloud
 
----
-
-### lately
-
-- building side projects
-- experimenting with ai
-- learning cloud technologies
-- trying to ship more and overthink less
-
----
-
-### things i've enjoyed building
-
-- workshop carnival ai — an event assistant powered by rag
-- campus companion — a university management platform
-- plantsense — ai + iot for smart agriculture
-- skillswap — a community learning platform
-
----
-
-### tools i reach for
-
-```text
-languages
-java • python • typescript • javascript
-
-frontend
-react • next.js • flutter
-
-backend
-node • express • fastapi
-
-databases
-mongodb • mysql • supabase
-
-other
-firebase • gcp • figma • git
+currently obsessed with making clean products.
 ```
 
 ---
 
-### github
+# stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,kotlin,dart,react,nextjs,vite,flutter,nodejs,express,fastapi,mongodb,mysql,supabase,firebase,gcp,git,github,docker,figma,blender,postman,vscode&perline=9"/>
+
+</div>
+
+---
+
+# featured
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Campus Companion
+Student ecosystem platform with role-based dashboards, transport, hostel and more.
+
+</td>
+
+<td width="50%">
+
+### 🤖 Workshop AI
+RAG-powered chatbot using FastAPI, Gemini and FAISS.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌱 PlantSense
+IoT-powered smart agriculture monitoring platform.
+
+</td>
+
+<td>
+
+### 🎨 Portfolio
+Minimal interactive portfolio built with Next.js.
+
+</td>
+</tr>
+</table>
+
+---
+
+# github
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Tribhuvan-26&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tribhuvan-26&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tribhuvan-26&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-### outside of code
+# currently
 
-i enjoy music, exploring new tech, good design, and occasionally disappearing into a side project for an entire weekend.
+```yaml
+building:
+  - Full Stack Applications
+  - AI Products
+
+learning:
+  - Agentic AI
+  - Distributed Systems
+  - Cloud Architecture
+
+using:
+  - VS Code
+  - Git
+  - Coffee
+```
 
 ---
 
 <div align="center">
 
-*"still learning."*
+### thanks for stopping by.
+
+```
+works on my machine.
+```
 
 </div>
-````
