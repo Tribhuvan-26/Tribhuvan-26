@@ -1,100 +1,225 @@
-# Hi, I'm Tribhuvan!
+<div align="center">
 
-### Software Engineer | Full-Stack Developer | Mobile App Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Tribhuvan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-I'm passionate about building impactful software, from full-stack web applications and mobile apps to AI-powered solutions and immersive AR experiences. I enjoy turning ideas into products and continuously exploring new technologies.
+# Hi there, I'm Tribhuvan
 
----
+### Software Engineer • Full Stack Developer • Mobile App Developer
 
-##  Connect With Me
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Products+That+Matter;Always+Learning+New+Technologies"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tribhuvan-katepally-30639b335/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tribhuvan._.26/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/katepally_t)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://in.pinterest.com/katepallytribhuvan/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:katepallytribhuvan@gmail.com)
+<p>
+<a href="https://github.com/Tribhuvan-26">
+<img src="https://komarev.com/ghpvc/?username=Tribhuvan-26&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
 
----
+<a href="https://github.com/Tribhuvan-26?tab=followers">
+<img src="https://img.shields.io/github/followers/Tribhuvan-26?style=for-the-badge&color=blue"/>
+</a>
 
-##  What I Do
+<a href="https://github.com/Tribhuvan-26">
+<img src="https://img.shields.io/github/stars/Tribhuvan-26?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+</a>
+</p>
 
-- Build full-stack web applications
-- Develop cross-platform mobile apps
-- Explore AI, Machine Learning, and Computer Vision
-- Create AR and 3D experiences
-- Design scalable cloud-based solutions
-
----
-
-##  Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Cloud & Deployment
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-### AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-### Design & Creative
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
----
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tribhuvan-26&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tribhuvan-26&theme=tokyonight&hide_border=true&layout=compact)
+</div>
 
 ---
 
+# About Me
+
+```yaml
+Name: Tribhuvan
+
+Role:
+  Software Engineer
+
+Interests:
+  - Full Stack Development
+  - Mobile Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Augmented Reality
+
+Currently Learning:
+  - Agentic AI
+  - Vertex AI
+  - Cloud Architecture
+  - Scalable Backend Systems
+
+Open To:
+  - Collaborations
+  - Open Source
+  - Freelance Projects
+```
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tribhuvan-katepally-30639b335/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:katepallytribhuvan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/tribhuvan._.26/">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="48"/>
+</a>
+
+<a href="https://x.com/katepally_t">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="48"/>
+</a>
+
+</p>
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,kotlin,c"/>
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite"/>
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+## Mobile
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,react"/>
+</p>
+
+## Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase"/>
+</p>
+
+## Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=gcp,vercel,netlify"/>
+</p>
+
+## AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,blender,postman,notion"/>
+</p>
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| PlantSense | Smart Agriculture using AI & IoT |
+| Campus Companion | College Management Platform |
+| Workshop Carnival AI | RAG Chatbot powered by Gemini |
+| SkillSwap | Community Skill Sharing Platform |
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tribhuvan-26&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tribhuvan-26&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tribhuvan-26&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tribhuvan-26&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# Currently Building
+
+- AI Applications
+- Full Stack Platforms
+- Mobile Apps
+- RAG Systems
+- Cloud Deployments
+
+---
+
+<div align="center">
+
+### Thanks for stopping by.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=140&section=footer"/>
+
+</div>
+````
