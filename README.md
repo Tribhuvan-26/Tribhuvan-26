@@ -1,82 +1,40 @@
-<div align="center">
+<h1 align="center">Tribhuvan Katepally</h1>
+<p align="center"><i>Software engineer building full-stack products, mobile apps, and applied AI.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111213&height=90&section=header&text=~/tribhuvan&fontSize=28&fontColor=50FA7B&fontAlignY=50&fontAlign=8"/>
-
-</div>
-
-```bash
-tribhuvan@dev:~$ whoami
-```
-```
-Tribhuvan Katepally — Software Engineer
-Full-Stack · Mobile · Applied AI
-```
-
-```bash
-tribhuvan@dev:~$ cat links.txt
-```
-```
-linkedin   → linkedin.com/in/tribhuvan-katepally-30639b335
-mail       → katepallytribhuvan@gmail.com
-instagram  → instagram.com/tribhuvan._.26
-x          → x.com/katepally_t
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/tribhuvan-katepally-30639b335/">LinkedIn</a> ·
+  <a href="mailto:katepallytribhuvan@gmail.com">Mail</a> ·
+  <a href="https://www.instagram.com/tribhuvan._.26/">Instagram</a> ·
+  <a href="https://x.com/katepally_t">X</a>
+</p>
 
 <br/>
 
-```bash
-tribhuvan@dev:~$ cat about.md
-```
-> Full-stack and mobile engineer working across web, native apps, and applied ML.
-> Currently deep in agentic systems, RAG pipelines, and cloud-native architecture.
+I work across the stack — web, native mobile, and computer vision/ML — and I'm currently
+going deeper on agentic AI, Vertex AI, and cloud-native backend architecture. I like
+building things end to end rather than staying in one lane.
 
 <br/>
 
-```bash
-tribhuvan@dev:~$ ls stack/
-```
+**Stack**
 
-<div align="left">
-<sub><b>languages/</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,kotlin,c&theme=dark&perline=7"/>
-<br/><br/>
-<sub><b>frontend-backend/</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,nodejs,express,fastapi&theme=dark&perline=9"/>
-<br/><br/>
-<sub><b>mobile-data-cloud/</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,supabase,firebase,gcp,vercel,netlify&theme=dark&perline=8"/>
-<br/><br/>
-<sub><b>ai-tools/</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,figma,blender,postman,notion&theme=dark&perline=8"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,kotlin,react,nextjs,nodejs,flutter,mongodb,firebase,gcp,tensorflow,opencv,git,figma&perline=17"/>
+</p>
 
 <br/>
 
-```bash
-tribhuvan@dev:~$ ls projects/
-```
-```
-drwxr-xr-x  plantsense/            smart agriculture — AI + IoT crop health monitoring
-drwxr-xr-x  campus-companion/      college management platform for students and faculty
-drwxr-xr-x  workshop-carnival-ai/  RAG chatbot built on Gemini
-drwxr-xr-x  skillswap/             community platform for trading skills, peer to peer
-```
+**Projects**
+
+1. **PlantSense** — smart agriculture platform combining AI with an IoT sensor network for real-time crop health monitoring.
+2. **Campus Companion** — a unified college management platform for students and faculty.
+3. **Workshop Carnival AI** — a RAG chatbot built on Gemini for grounded, context-aware conversation.
+4. **SkillSwap** — a community platform for trading skills and knowledge, peer to peer.
 
 <br/>
 
-```bash
-tribhuvan@dev:~$ git log --stat --author=tribhuvan
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&hide_border=true&theme=transparent&hide_title=true"/>
+</p>
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&hide_border=true&hide_title=true&bg_color=111213&title_color=50FA7B&icon_color=50FA7B&text_color=E8E8E8"/>
-<img width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tribhuvan-26&hide_border=true&background=111213&ring=50FA7B&fire=50FA7B&currStreakLabel=E8E8E8&sideNums=E8E8E8&sideLabels=8A8A8A&dates=8A8A8A"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tribhuvan-26&hide_border=true&bg_color=111213&color=8A8A8A&line=50FA7B&point=E8E8E8&area=true&area_color=50FA7B"/>
-
-</div>
-
-```bash
-tribhuvan@dev:~$ _
-```
+<p align="center"><sub>Always open to collaborations, open source, and freelance work.</sub></p>
