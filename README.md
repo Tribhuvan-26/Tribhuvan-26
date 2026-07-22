@@ -84,7 +84,7 @@ STATUS     : Open to co-op — collabs / open source / freelance
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&theme=radical&hide_border=true"/>
 </td>
 <td width="40%" valign="top">
 <img width="100%" src="https://streak-stats.demolab.com/?user=Tribhuvan-26&theme=radical&hide_border=true"/>
