@@ -4,18 +4,18 @@
 
 <br/>
 
-<sub>KATEPALLY TRIBHUVAN</sub>
-
-<br/>
-<br/>
-
-<a href="https://www.linkedin.com/in/tribhuvan-katepally-30639b335/"><sub>LINKEDIN</sub></a>
-&nbsp;·&nbsp;
-<a href="mailto:katepallytribhuvan@gmail.com"><sub>MAIL</sub></a>
-&nbsp;·&nbsp;
-<a href="https://www.instagram.com/tribhuvan._.26/"><sub>INSTAGRAM</sub></a>
-&nbsp;·&nbsp;
-<a href="https://x.com/katepally_t"><sub>X</sub></a>
+<a href="https://www.linkedin.com/in/tribhuvan-katepally-30639b335/">
+<img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=D4A017"/>
+</a>
+<a href="mailto:katepallytribhuvan@gmail.com">
+<img src="https://img.shields.io/badge/-Mail-0D1117?style=flat-square&logo=gmail&logoColor=D4A017"/>
+</a>
+<a href="https://www.instagram.com/tribhuvan._.26/">
+<img src="https://img.shields.io/badge/-Instagram-0D1117?style=flat-square&logo=instagram&logoColor=D4A017"/>
+</a>
+<a href="https://x.com/katepally_t">
+<img src="https://img.shields.io/badge/-X-0D1117?style=flat-square&logo=x&logoColor=D4A017"/>
+</a>
 
 </div>
 
@@ -35,36 +35,31 @@ cloud-native architecture. I ship, then I refine.
 
 ### 01 — STACK
 
-<table width="100%">
-<tr>
-<td width="18%"><sub>LANGUAGES</sub></td>
-<td><sub>Java · Python · JavaScript · TypeScript · Dart · Kotlin · C</sub></td>
-</tr>
-<tr>
-<td><sub>FRONTEND</sub></td>
-<td><sub>React · Next.js · Vite · Tailwind · HTML/CSS</sub></td>
-</tr>
-<tr>
-<td><sub>BACKEND</sub></td>
-<td><sub>Node.js · Express · FastAPI</sub></td>
-</tr>
-<tr>
-<td><sub>MOBILE</sub></td>
-<td><sub>Flutter · React Native</sub></td>
-</tr>
-<tr>
-<td><sub>DATA / CLOUD</sub></td>
-<td><sub>MongoDB · MySQL · Supabase · Firebase · GCP · Vercel · Netlify</sub></td>
-</tr>
-<tr>
-<td><sub>AI / ML</sub></td>
-<td><sub>TensorFlow · OpenCV · Vertex AI · Agentic AI</sub></td>
-</tr>
-<tr>
-<td><sub>TOOLING</sub></td>
-<td><sub>Git · Figma · Blender · Postman · Notion</sub></td>
-</tr>
-</table>
+<div align="center">
+
+<sub>LANGUAGES</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,kotlin,c&theme=dark&perline=7"/>
+
+<br/><br/>
+
+<sub>FRONTEND · BACKEND</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,nodejs,express,fastapi&theme=dark&perline=9"/>
+
+<br/><br/>
+
+<sub>MOBILE · DATA · CLOUD</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,supabase,firebase,gcp,vercel,netlify&theme=dark&perline=8"/>
+
+<br/><br/>
+
+<sub>AI / ML · TOOLING</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,figma,blender,postman,notion&theme=dark&perline=8"/>
+
+</div>
 
 ---
 
@@ -98,12 +93,16 @@ cloud-native architecture. I ship, then I refine.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=D4A017&icon_color=8A8A8A&text_color=E8E8E8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=D4A017&icon_color=D4A017&text_color=E8E8E8"/>
 <img width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tribhuvan-26&hide_border=true&background=0D1117&ring=D4A017&fire=D4A017&currStreakLabel=E8E8E8&sideNums=E8E8E8&sideLabels=8A8A8A&dates=8A8A8A"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tribhuvan-26&hide_border=true&bg_color=0D1117&color=8A8A8A&line=D4A017&point=E8E8E8&area=true&area_color=D4A017"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tribhuvan-26&no-frame=true&no-bg=true&column=7&theme=onedark&margin-w=8&margin-h=8"/>
 
 </div>
 
