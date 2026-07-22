@@ -115,12 +115,18 @@
 
 ### 📊 PLAYER CARD — LIVE STATS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&hide_border=true&hide_title=true&bg_color=0F0F1B&title_color=00F5FF&icon_color=FF2E92&text_color=E8E8E8"/>
-<img width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tribhuvan-26&hide_border=true&background=0F0F1B&ring=FF2E92&fire=00F5FF&currStreakLabel=E8E8E8&sideNums=E8E8E8&sideLabels=8A8A8A&dates=8A8A8A"/>
+<table>
+<tr>
+<td align="center" valign="middle">
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&hide_border=true&hide_title=true&bg_color=0F0F1B&title_color=00F5FF&icon_color=FF2E92&text_color=E8E8E8"/>
+</td>
+<td align="center" valign="middle">
+<img width="280" src="https://streak-stats.demolab.com/?user=Tribhuvan-26&hide_border=true&background=0F0F1B&ring=FF2E92&fire=00F5FF&currStreakLabel=E8E8E8&sideNums=E8E8E8&sideLabels=8A8A8A&dates=8A8A8A"/>
+</td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tribhuvan-26&no-frame=true&no-bg=true&column=7&theme=radical&margin-w=8&margin-h=8"/>
+<img width="720" src="https://github-profile-trophy.vercel.app/?username=Tribhuvan-26&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&title-color=00F5FF&text-color=E8E8E8&icon-color=FF2E92&bg-color=0F0F1B"/>
 
 </div>
 
