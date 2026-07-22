@@ -81,35 +81,13 @@ STATUS     : Open to co-op — collabs / open source / freelance
 
 ## 📊 Stats & Streak
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&theme=radical&hide_border=true"/>
-</td>
-<td width="40%" valign="top">
-<img width="100%" src="https://streak-stats.demolab.com/?user=Tribhuvan-26&theme=radical&hide_border=true"/>
-</td>
-</tr>
-</table>
+<div align="center">
+<img width="320" src="https://streak-stats.demolab.com/?user=Tribhuvan-26&theme=radical&hide_border=true"/>
+</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tribhuvan-26&theme=react-dark&hide_border=true" width="100%"/>
 </div>
-
-<br/>
-
-## 🥇 Top Languages & Trophies
-
-<table width="100%">
-<tr>
-<td width="45%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tribhuvan-26&layout=compact&theme=radical&hide_border=true"/>
-</td>
-<td width="55%" valign="top">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Tribhuvan-26&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8"/>
-</td>
-</tr>
-</table>
 
 <br/>
 
