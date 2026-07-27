@@ -6,7 +6,7 @@
 
 <!-- ═══════════════ TYPING ═══════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=60&lines=hi%2C+i'm+tribhuvan+%F0%9F%91%8B;i+build+things+that+think+%F0%9F%A4%96;web+%C2%B7+mobile+%C2%B7+agentic+AI;currently+in+my+vertex+ai+era+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=60&lines=hi%2C+i'm+tribhuvan;i+build+things+that+think;web+%C2%B7+mobile+%C2%B7+agentic+AI;always+open+to+collaboration"/>
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## About Me
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
 
@@ -46,7 +46,7 @@ class Tribhuvan:
         self.focus    = ["Applied AI", "Computer Vision"]
         self.grinding = ["Agentic AI", "Vertex AI",
                          "Cloud Architecture"]
-        self.base     = "Hyderabad, India 🇮🇳"
+        self.base     = "Hyderabad, India"
 
     def say_hi(self):
         print("Let's build something that thinks.")
@@ -55,9 +55,9 @@ me = Tribhuvan()
 me.say_hi()
 ```
 
-- 🔭 Building products **end to end** — Flutter apps → React frontends → FastAPI backends → ML pipelines
-- 🧠 Deep in **agentic AI** — systems that don't just answer, they *act*
-- 🤝 Open to **collabs · open source · freelance**
+- Building products **end to end** — Flutter apps, React frontends, FastAPI backends, ML pipelines
+- Deep in **agentic AI** — systems that don't just answer, they *act*
+- Open to **collabs · open source · freelance**
 
 <br clear="right"/>
 
@@ -65,7 +65,7 @@ me.say_hi()
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -87,14 +87,14 @@ me.say_hi()
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Featured Builds
+## Featured Builds
 
 <table>
 <tr>
 <td width="50%">
 <div align="center">
 
-### 🌱 PlantSense
+### PlantSense
 <sub>**AI + IoT · Smart Agriculture**</sub>
 
 Real-time crop health monitoring — computer vision fused with IoT sensors to catch disease *before* it's visible.
@@ -106,7 +106,7 @@ Real-time crop health monitoring — computer vision fused with IoT sensors to c
 <td width="50%">
 <div align="center">
 
-### 🤖 Workshop Carnival AI
+### Workshop Carnival AI
 <sub>**RAG · LLM**</sub>
 
 Retrieval-augmented chatbot on Gemini — grounded, context-aware answers with zero hallucination tolerance.
@@ -120,7 +120,7 @@ Retrieval-augmented chatbot on Gemini — grounded, context-aware answers with z
 <td width="50%">
 <div align="center">
 
-### 🎓 Campus Companion
+### Campus Companion
 <sub>**Full-Stack Platform**</sub>
 
 Unified college management — schedules, resources, and communication for students & faculty in one app.
@@ -132,7 +132,7 @@ Unified college management — schedules, resources, and communication for stude
 <td width="50%">
 <div align="center">
 
-### 🔄 SkillSwap
+### SkillSwap
 <sub>**Community Platform**</sub>
 
 Peer-to-peer skill trading — teach what you know, learn what you don't.
@@ -148,7 +148,7 @@ Peer-to-peer skill trading — teach what you know, learn what you don't.
 
 <!-- ═══════════════ STATS ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> The Numbers
+## The Numbers
 
 <div align="center">
 
@@ -187,6 +187,6 @@ Peer-to-peer skill trading — teach what you know, learn what you don't.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A00E0,50:6A1FD0,100:8E2DE2&height=170&section=footer&text=see%20you%20in%20the%20next%20commit%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A00E0,50:6A1FD0,100:8E2DE2&height=170&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=22&fontColor=ffffff&fontAlignY=75"/>
 
 </div>
