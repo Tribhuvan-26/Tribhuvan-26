@@ -32,6 +32,8 @@
 
 <div align="center">
 
+**Languages**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
 <img width="6"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
@@ -48,6 +50,8 @@
 
 <br/><br/>
 
+**Frontend & Mobile**
+
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30"/>
 <img width="6"/>
 <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30"/>
@@ -61,6 +65,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30"/>
 
 <br/><br/>
+
+**Backend & Data**
 
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30"/>
 <img width="6"/>
@@ -77,6 +83,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30"/>
 
 <br/><br/>
+
+**Cloud, AI & Tools**
 
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30"/>
 <img width="6"/>
