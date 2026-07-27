@@ -1,6 +1,18 @@
 <div align="center">
 
-# Tribhuvan Katepally
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:1a0033,70:4A00E0,100:8E2DE2&height=280&section=header&text=TRIBHUVAN&fontSize=70&fontColor=E0D6FF&animation=fadeIn&desc=full-stack%20%C2%B7%20mobile%20%C2%B7%20applied%20AI&descSize=20&descAlignY=62&descColor=8E2DE2"/>
+
+```text
+                       ▄▄
+                      ████
+              ▄██▄    ████    ▄██▄
+      ▄▄      ████  ▄ ████ ▄  ████      ▄▄
+     ████ ▄██ ████ ██ ████ ██ ████ ██▄ ████
+     ████ ███ ████ ██ ████ ██ ████ ███ ████
+▄▄▄▄▄██████████████████▀▀██████████████████▄▄▄▄▄
+· · · · · · · · ·  the city sleeps  · · · · · · · ·
+· · · · · · · · ·   the code ships  · · · · · · · ·
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=full-stack+%C2%B7+mobile+%C2%B7+applied+AI;i+build+things+that+think;always+open+to+collaboration"/>
 
@@ -91,5 +103,7 @@ me.say_hi()
 <div align="center">
 
 <sub>**tribhuvan-portfolio.vercel.app** · katepallytribhuvan@gmail.com</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,30:4A00E0,65:1a0033,100:000000&height=160&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=20&fontColor=A78BFA&fontAlignY=72"/>
 
 </div>
