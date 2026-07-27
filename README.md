@@ -1,13 +1,14 @@
 <div align="center">
 
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+# Tribhuvan Katepally
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:6A1FD0,100:4A00E0&height=280&section=header&text=TRIBHUVAN&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=full-stack%20%C2%B7%20mobile%20%C2%B7%20applied%20AI&descSize=20&descAlignY=62&descColor=E0D6FF"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=hi%2C+i'm+tribhuvan;i+build+things+that+think;web+%C2%B7+mobile+%C2%B7+agentic+AI;always+open+to+collaboration"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=full-stack+%C2%B7+mobile+%C2%B7+applied+AI;i+build+things+that+think;always+open+to+collaboration"/>
 
 <br/>
 
+<a href="https://tribhuvan-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+</a>
 <a href="https://www.linkedin.com/in/tribhuvan-katepally-30639b335/">
   <img src="https://img.shields.io/badge/LinkedIn-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
@@ -21,17 +22,9 @@
   <img src="https://img.shields.io/badge/Instagram-8E2DE2?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Tribhuvan-26&style=for-the-badge&color=8E2DE2&label=VISITORS"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-8E2DE2?style=for-the-badge&labelColor=0d1117"/>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<br/>
 
 ## About Me
 
@@ -59,157 +52,44 @@ me.say_hi()
 
 <br clear="right"/>
 
-```text
-skill_tree.load()
-
-  frontend      ██████████████████░░   90%
-  mobile        █████████████████░░░   85%
-  backend       ██████████████████░░   90%
-  ai / ml       ████████████████░░░░   80%
-  cloud         ██████████████░░░░░░   70%
-  agentic ai    ████████████░░░░░░░░   60%  ← grinding
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════ STACK ═══════════════════════ -->
-
-## Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-### 〈 Languages 〉
 <img src="https://skillicons.dev/icons?i=python,ts,js,java,dart,kotlin,c&theme=dark"/>
 
-### 〈 Frontend · Mobile 〉
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,figma&theme=dark"/>
 
-### 〈 Backend · Data 〉
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,supabase,firebase&theme=dark"/>
 
-### 〈 Cloud · AI 〉
 <img src="https://skillicons.dev/icons?i=gcp,vercel,tensorflow,opencv,git,github&theme=dark"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## Projects
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+| | |
+|---|---|
+| **PlantSense** <br/> <sub>Python · TensorFlow · OpenCV · IoT</sub> | Real-time crop health monitoring — computer vision fused with IoT sensor data to catch disease before it's visible. |
+| **Workshop Carnival AI** <br/> <sub>Gemini · RAG · Python</sub> | Retrieval-augmented chatbot with grounded, context-aware answers. |
+| **Campus Companion** <br/> <sub>React · Node.js · MongoDB</sub> | Unified college management platform for students and faculty. |
+| **SkillSwap** <br/> <sub>Next.js · Supabase · Tailwind</sub> | Peer-to-peer platform for trading skills and knowledge. |
 
-## Featured Builds
-
-<table>
-<tr>
-<td width="50%">
-<div align="center">
-
-### PlantSense
-<sub>**AI + IoT · Smart Agriculture**</sub>
-
-Real-time crop health monitoring — computer vision fused with IoT sensors to catch disease *before* it's visible.
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=A78BFA"/>
-
-</div>
-</td>
-<td width="50%">
-<div align="center">
-
-### Workshop Carnival AI
-<sub>**RAG · LLM**</sub>
-
-Retrieval-augmented chatbot on Gemini — grounded, context-aware answers with zero hallucination tolerance.
-
-<img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=databricks&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=A78BFA"/>
-
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<div align="center">
-
-### Campus Companion
-<sub>**Full-Stack Platform**</sub>
-
-Unified college management — schedules, resources, and communication for students & faculty in one app.
-
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=A78BFA"/>
-
-</div>
-</td>
-<td width="50%">
-<div align="center">
-
-### SkillSwap
-<sub>**Community Platform**</sub>
-
-Peer-to-peer skill trading — teach what you know, learn what you don't.
-
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=A78BFA"/>
-
-</div>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-
-## The Numbers
+## Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tribhuvan-26&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8E2DE2&text_color=c9d1d9&ring_color=8E2DE2"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Tribhuvan-26&hide_border=true&background=0d1117&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tribhuvan-26&hide_border=true&background=0d1117&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e"/>
 
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tribhuvan-26&theme=tokyonight&utcOffset=5.5"/>
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tribhuvan-26&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tribhuvan-26&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tribhuvan-26&hide_border=true&bg_color=0d1117&color=A78BFA&line=8E2DE2&point=E0D6FF&area=true&area_color=8E2DE2" width="97%"/>
-
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tribhuvan-26/Tribhuvan-26/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-
-<div align="center">
 
 <br/>
 
-```text
-$ whoami
-> engineer who ships
+<div align="center">
 
-$ contact --fastest
-> katepallytribhuvan@gmail.com
-
-$ status
-> open to collabs, open source & freelance
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A00E0,50:6A1FD0,100:8E2DE2&height=170&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=22&fontColor=ffffff&fontAlignY=75"/>
+<sub>**tribhuvan-portfolio.vercel.app** · katepallytribhuvan@gmail.com</sub>
 
 </div>
