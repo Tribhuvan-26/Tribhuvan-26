@@ -104,12 +104,13 @@
 
 <br/><br/>
 
-## Stats
+## Now Playing
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/Tribhuvan-26/Tribhuvan-26/main/profile/stats.svg" alt="GitHub stats"/>
-<img width="42%" src="https://raw.githubusercontent.com/Tribhuvan-26/Tribhuvan-26/main/profile/top-langs.svg" alt="Top languages"/>
+<a href="https://open.spotify.com/user/31xqiukeprluoqov4bdnvqjvdtwe">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xqiukeprluoqov4bdnvqjvdtwe&count=5&unique=true" alt="Spotify recently played"/>
+</a>
 
 </div>
 
