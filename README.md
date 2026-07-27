@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:6A1FD0,100:4A00E0&height=220&section=header&text=ABOUT%20ME&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+full-stack%2C+mobile+%26+AI+products+end+to+end;Currently+deep+in+agentic+AI+%26+cloud+architecture;Always+open+to+collaboration"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+full-stack%2C+mobile+%26+AI+products+end+to+end;Currently+deep+in+agentic+AI+%26+cloud+architecture;Always+open+to+collaboration"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Tribhuvan-26&locale=en&mode=weekly&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA" height="150" alt="streak graph"/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=8E2DE2&labelColor=0d1117&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ftribhuvan-26%2Freadme&style=for-the-badge" height="30" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Tribhuvan-26&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" height="30" alt="profile views"/>
 
 </div>
 
