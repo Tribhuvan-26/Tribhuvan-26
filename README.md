@@ -10,8 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tribhuvan-26&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" height="30" alt="profile views"/>
-
 </div>
 
 <br/><br/>
