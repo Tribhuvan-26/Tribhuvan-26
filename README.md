@@ -9,7 +9,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tribhuvan-26&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA" height="150" alt="streak graph"/>
 
 <br/>
-
 </div>
 
 <br/><br/>
@@ -26,7 +25,7 @@
 
 <br/>
 
-## Tech Stack
+## Tech stack
 
 <div align="center">
 
@@ -79,11 +78,8 @@
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30"/>
 <img width="6"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30"/>
-
 <br/><br/>
-
-**Cloud, AI & Tools**
-
+**Cloud, AI & Tool's**
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30"/>
 <img width="6"/>
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30"/>
@@ -100,7 +96,7 @@
 
 <br/><br/>
 
-## Contribution Activity
+## Contribution Activity.
 
 <div align="center">
 
