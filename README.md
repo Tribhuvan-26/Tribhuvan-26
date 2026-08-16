@@ -139,5 +139,4 @@
 </div>
 
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
