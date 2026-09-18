@@ -23,7 +23,7 @@
 
 ### About Me
 
-<img align="right" width="300" src="https://c.tenor.com/7123V9X4hU8AAAAC/tenor.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/l0NwGpoOVLTA2WpxS/giphy.gif"/>
 
 - Building **full-stack, mobile, and AI products** end-to-end.
 - Shipping with **React, Next.js, Flutter, Node.js, and FastAPI**.
