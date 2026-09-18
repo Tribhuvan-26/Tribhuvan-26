@@ -80,7 +80,6 @@
 
 </div>
 
----
 
 ### GitHub Activity & Analytics
 
