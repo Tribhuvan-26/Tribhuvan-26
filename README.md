@@ -22,7 +22,8 @@
 <br/>
 
 ### About Me
-<img align="right" height="180" src="https://c.tenor.com/7123V9X4hU8AAAAC/tenor.gif" alt="Batman Arkham Knight" />
+
+<img align="right" width="300" src="https://c.tenor.com/7123V9X4hU8AAAAC/tenor.gif"/>
 
 - Building **full-stack, mobile, and AI products** end-to-end.
 - Shipping with **React, Next.js, Flutter, Node.js, and FastAPI**.
