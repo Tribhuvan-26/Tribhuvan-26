@@ -23,7 +23,7 @@
 
 ### About Me
 
-<img align="right" width="280" src="./batman.gif"/>
+<img align="right" height="160" src="https://raw.githubusercontent.com/Tribhuvan-26/Tribhuvan-26/main/batman.gif"/>
 
 - Building **full-stack, mobile, and AI products** end-to-end.
 - Shipping with **React, Next.js, Flutter, Node.js, and FastAPI**.
