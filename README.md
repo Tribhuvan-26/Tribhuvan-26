@@ -23,7 +23,7 @@
 
 ### About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/l0NwGpoOVLTA2WpxS/giphy.gif"/>
+<img align="right" width="280" src="./assets/batman.gif"/>
 
 - Building **full-stack, mobile, and AI products** end-to-end.
 - Shipping with **React, Next.js, Flutter, Node.js, and FastAPI**.
