@@ -23,14 +23,26 @@
 
 ### About Me
 
-<img align="right" height="160" src="https://raw.githubusercontent.com/Tribhuvan-26/Tribhuvan-26/main/batman.gif"/>
+<table>
+<tr>
+<td valign="middle">
 
-- Building **full-stack, mobile, and AI products** end-to-end.
-- Shipping with **React, Next.js, Flutter, Node.js, and FastAPI**.
-- Deep in **agentic AI** — systems that execute actions autonomously.
-- Open to **collaborations, open-source initiatives, and freelance projects**.
+<ul>
+<li>Building <b>full-stack, mobile, and AI products</b> end-to-end.</li>
+<li>Shipping with <b>React, Next.js, Flutter, Node.js, and FastAPI</b>.</li>
+<li>Deep in <b>agentic AI</b> — systems that execute actions autonomously.</li>
+<li>Open to <b>collaborations, open-source initiatives, and freelance projects</b>.</li>
+</ul>
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="220">
+<img height="220" src="https://raw.githubusercontent.com/Tribhuvan-26/Tribhuvan-26/main/superman.jpg"/>
+</td>
+<td valign="middle" width="220">
+<img height="220" src="https://raw.githubusercontent.com/Tribhuvan-26/Tribhuvan-26/main/latveria.jpg"/>
+</td>
+</tr>
+</table>
 
 ---
 
