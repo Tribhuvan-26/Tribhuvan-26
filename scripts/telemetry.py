@@ -11,7 +11,7 @@ def gql(q, **v):
     return r["data"]["user"]
 
 u = gql("""query($l:String!){user(login:$l){createdAt pullRequests{totalCount}
-  contributionsCollection{totalCommitContributions restrictedContributionsCount}
+  contributionsCollection{contributionCalendar{totalContributions}}
   repositories(ownerAffiliations:OWNER,isFork:false,first:100){nodes{languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name}}}}}}}""", l=USER)
 today = dt.datetime.now(dt.timezone.utc).date()
 days = {}
@@ -30,7 +30,7 @@ d, streak = today, 0
 if not days.get(str(d)): d -= dt.timedelta(days=1)  # today not counted yet doesn't break the streak
 while days.get(str(d)): streak += 1; d -= dt.timedelta(days=1)
 last = [days.get(str(today - dt.timedelta(days=i)), 0) for i in range(59, -1, -1)]
-commits = u["contributionsCollection"]["totalCommitContributions"] + u["contributionsCollection"]["restrictedContributionsCount"]
+year = u["contributionsCollection"]["contributionCalendar"]["totalContributions"]
 prs = u["pullRequests"]["totalCount"]
 langs = {}
 for r in u["repositories"]["nodes"]:
@@ -41,7 +41,7 @@ top = sorted(langs.items(), key=lambda kv: -kv[1])[:6]
 f64 = lambda n: base64.b64encode(open(os.path.join(FONTS, n), "rb").read()).decode()
 H, top_y = 420, 62
 stats = [(f"{total:,}", "CONTRIBUTIONS", "ALL TIME"), (str(streak), "DAY STREAK", "CURRENT"),
-         (f"{commits:,}", "COMMITS", "LAST 12 MO"), (str(prs), "PULL REQUESTS", "ALL TIME")]
+         (f"{year:,}", "CONTRIBUTIONS", "LAST 12 MO"), (str(prs), "PULL REQUESTS", "ALL TIME")]
 cells = []
 for i, (num, lab, sub) in enumerate(stats):
     x = 18 + i*196
@@ -87,4 +87,4 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="{H}" view
 <rect width="1200" height="{H}" filter="url(#grain)" opacity=".16" style="mix-blend-mode:multiply"/>
 </svg>'''
 open(OUT, "w", encoding="utf-8").write(svg)
-print("telemetry:", total, streak, commits, prs)
+print("telemetry:", total, streak, year, prs)
