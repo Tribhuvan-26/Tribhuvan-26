@@ -96,7 +96,7 @@
 ### GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tribhuvan-26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=A78BFA&text_color=E0D6FF" height="150" alt="GitHub Stats"/>
+  <img src="./profile/stats.svg" height="150" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=Tribhuvan-26&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA" height="150" alt="Streak Graph"/>
   
   <br/><br/>
